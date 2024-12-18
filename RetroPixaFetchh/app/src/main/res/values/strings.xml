@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RetroPixaFetchh</string>
+    <string name="likes">likes\n</string>
+    <string name="downloads">downloads</string>
+    <string name="views">views</string>
+    <string name="user">user</string>
+    <string name="wallpaper_image">image</string>
+</resources>
