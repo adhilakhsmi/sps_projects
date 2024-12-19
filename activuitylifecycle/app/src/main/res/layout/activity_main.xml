@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="203dp"
+        android:layout_height="102dp"
+        android:text="@string/name"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!-- <EditText
+         android:layout_width="match_parent"
+
+         android:layout_height="wrap_content"
+         android:layout_marginStart="28dp"
+         android:hint="First Name"
+         android:inputType="textCapCharacters"
+         app:layout_constraintBaseline_toTopOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         tools:layout_editor_absoluteY="84dp" />
+
+     <EditText
+         android:layout_width="167dp"
+         android:layout_height="465dp"
+         android:hint="lastname"
+         android:inputType=""
+         app:layout_constraintBaseline_toTopOf="parent"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.317"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="parent"
+         app:layout_constraintVertical_bias="1.0" />
+
+
+      <TextView
+          android:id="@+id/textView"
+          android:layout_width="264dp"
+          android:layout_height="50dp"
+          android:background="@color/white"
+          android:text="@string/org_name"
+          android:textColor="#FFFFFFFF"
+          android:textSize="24sp"
+          android:textStyle="italic"
+          android:typeface="serif"
+          app:layout_constraintBottom_toBottomOf="parent"
+          app:layout_constraintEnd_toEndOf="parent"
+          app:layout_constraintHorizontal_bias="0.53"
+          app:layout_constraintStart_toStartOf="parent"
+          app:layout_constraintTop_toTopOf="parent"
+          app:layout_constraintVertical_bias="0.535" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProductApplication" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ProductApplication" parent="Base.Theme.ProductApplication" />
+    <style name="Widget.MyApp.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">#e5446b</item> <!-- Pale Pink -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text -->
+    </style>
+
+
+</resources>

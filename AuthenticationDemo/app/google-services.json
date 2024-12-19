@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472974915166",
+    "project_id": "authenticationdemo-c4e81",
+    "storage_bucket": "authenticationdemo-c4e81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472974915166:android:ca3f0e20c11e91acaf26cf",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.authenticationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Xl_jAWZ0KXrUo6NRQyScA87zCdXOZjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

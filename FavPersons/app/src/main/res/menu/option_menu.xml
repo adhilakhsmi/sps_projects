@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/deepu"
+        android:title="Deepika"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/prathyu"
+        android:title="Prathyusha"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/rishika"
+        android:title="Rishika" />
+    <item
+        android:id="@+id/paddu"
+        android:title="Padmaja" />
+    <item
+        android:id="@+id/lucky"
+        android:title="Lakshnmi" />
+</menu>

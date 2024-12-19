@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DbsqliteValidation</string>
+    <string name="username">username\n</string>
+    <string name="Password">password</string>
+    <string name="SignUp">signup\n</string>
+    <string name="Email">email</string>
+</resources>

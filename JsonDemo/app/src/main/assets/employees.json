@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "name": "Kavitha",
+      "email": "kavitha@gmail.com",
+      "phone": "1234567889",
+      "designation": "software engineer"
+    },
+    {
+      "name": "Alekya",
+      "email": "alekya@gmail.com",
+      "phone": "8769876543",
+      "designation": "software developer"
+    },
+    {
+      "name": "Adhilakshmi",
+      "email": "adhi@gmail.com",
+      "phone": "8317597442",
+      "designation": "software engineer"
+    },
+    {
+      "name": "akhilesh",
+      "email": "akhilesh@gmail.com",
+      "phone": "1234567889",
+      "designation": "Android engineer"
+    },
+    {
+      "name": "Anirudh",
+      "email": "anirudh@gmail.com",
+      "phone": "123456",
+      "designation": "Android engineer"
+    },
+    {
+      "name": "Srikar",
+      "email": "srikhar@gmail.com",
+      "phone": "987667867",
+      "designation": "software Trainee"
+    },
+    {
+      "name": "Shashank",
+      "email": "shashankgmail.com",
+      "phone": "678234567",
+      "designation": "web developer"
+    },
+    {
+      "name": "Karthik",
+      "email": "karthik@gmail.com",
+      "phone": "678234567",
+      "designation": "Android developer"
+    }
+  ]
+}

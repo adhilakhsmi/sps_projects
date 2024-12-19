@@ -5,4 +5,5 @@
     <string name="views">views</string>
     <string name="user">user</string>
     <string name="wallpaper_image">image</string>
+    <string name="collections">collections</string>
 </resources>

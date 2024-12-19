@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483894245002",
+    "project_id": "ecommercedb-d774d",
+    "storage_bucket": "ecommercedb-d774d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483894245002:android:aa4177849095b55a1d1f73",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.e_commercedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcF-3j5J-LCZ2rsjZLd5KXXTIYejvnsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "386191703027",
+    "firebase_url": "https://employeedb-d2009-default-rtdb.firebaseio.com",
+    "project_id": "employeedb-d2009",
+    "storage_bucket": "employeedb-d2009.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386191703027:android:db8774926900f81831b086",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.employeedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjVhrj7RfIgfiZqGM1lTmmYNVJDoyacPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

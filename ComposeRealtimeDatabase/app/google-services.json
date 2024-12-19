@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315865689947",
+    "project_id": "compose-realtime-database",
+    "storage_bucket": "compose-realtime-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315865689947:android:4eeec3d62a1434c629f47e",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.composerealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0ko9Y1yIV9JJXGC1IW72a5u3BG62Uss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

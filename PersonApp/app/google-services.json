@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254582405901",
+    "project_id": "person-app-b4239",
+    "storage_bucket": "person-app-b4239.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254582405901:android:c287412d0819a1dac40e44",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.personapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hH9ceqieLG4Q_rHbr1vDZB-vlvlAqbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

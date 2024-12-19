@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Version List Demo</string>
+    <string name="cupcake">Android Cupcake was the third release of the Android operating system and the first version to officially use a codename based on a dessert theme. Released in April 2009</string>
+    <string name="donut">Donut introduced compatibility with different screen resolutions and sizes, paving the way for Android to run on a wide range of devices, including tablets.</string>
+    <string name="froyo">One of the most prominent changes in the Froyo release was USB tethering and Wi-Fi hotspot functionality.</string>
+    <string name="gingerbread">Android 2.3 Gingerbread is the seventh version of Android, a version of the Android mobile operating system developed by Google</string>
+    <string name="honeycomb">Android Honeycomb is the codename for the third major version of Android, designed for devices with larger screen sizes, particularly tablets</string>
+    <string name="jellybean">Jelly Bean marked a turning point in Android\'s evolution, emphasizing smooth performance, usability, and features that rivaled iOS.</string>
+    <string name="kitkat">Its primary focus was to optimize the operating system, which improves the performance of earlier devices. It takes up to 512 MB of RAM on Android devices.</string>
+    <string name="lolloipop">One of the most prominent changes in the Lollipop release is a redesigned user interface built around a design language known as Material Design, which was made to retain a paper-like feel to the interface</string>
+
+</resources>

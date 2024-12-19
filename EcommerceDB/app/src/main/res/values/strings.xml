@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-commerceDB</string>
+    <string name="name">name\n</string>
+    <string name="Description">description</string>
+    <string name="Price">price</string>
+    <string name="Category">category</string>
+    <string name="Discount">discount\n</string>
+    <string name="Brand">brand</string>
+    <string name="ProductId">productid\n</string>
+</resources>

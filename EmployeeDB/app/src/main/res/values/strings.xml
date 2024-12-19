@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmployeeDB</string>
+    <string name="update">update\n</string>
+    <string name="delete">delete</string>
+    <string name="load">load\n</string>
+    <string name="save">save</string>
+    <string name="name">name</string>
+    <string name="email">email\n</string>
+    <string name="phone">phone</string>
+    <string name="designation">designatioon</string>
+    <string name="Save">save</string>
+    <string name="Load">Load</string>
+</resources>

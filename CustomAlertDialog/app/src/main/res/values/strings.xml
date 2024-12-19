@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomAlertDialog</string>
+    <string name="password">password\n</string>
+    <string name="Username">usename\n</string>
+</resources>

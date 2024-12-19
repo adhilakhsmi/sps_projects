@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="welcome_text">Welcome to google</string>
+</resources>

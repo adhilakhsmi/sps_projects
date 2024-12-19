@@ -14,6 +14,7 @@ class PixaFetch : AppCompatActivity() {
     lateinit var viewCount: TextView
     lateinit var downloadCount: TextView
     lateinit var likesCount: TextView
+    lateinit var colletionsCount:TextView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -27,12 +28,15 @@ class PixaFetch : AppCompatActivity() {
         downloadCount = findViewById(R.id.download_count)
         likesCount = findViewById(R.id.likes_count)
 
+
+
         // Get the data from the intent
         val imageUrl = intent.getStringExtra("wallpaperImage")
         val user = intent.getStringExtra("user")
         val views = intent.getIntExtra("views", 0)
         val downloads = intent.getIntExtra("downloads", 0)
         val likes = intent.getIntExtra("likes", 0)
+
 
         // Load the image using Glide
         Glide.with(this).load(imageUrl).into(wallpaperImageView)
